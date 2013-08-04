@@ -10,9 +10,7 @@ We are opening an Austin office of 8-10 staff conveniently located near the Metr
 Who We Want
 ============
 
-We are looking for PHP Software Engineers with 2-5 years of development experience who will work with our API, white label, web portal, and telecom solutions.
-
-We crave smart, energetic employees who work well with a small team, enjoy seeing a project to completion, and have an "open source" attitude when it comes to criticism and sharing ideas.
+We are looking for PHP Software Engineers with 2-5 years of development experience who will work with our API, white label, web portal, and telecom solutions. We crave smart, energetic employees who work well with a small team, enjoy seeing a project to completion, and have an "open source" attitude when it comes to criticism and sharing ideas.
 
 Experience in the following is a must: 
 
