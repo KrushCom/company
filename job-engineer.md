@@ -12,16 +12,25 @@ Who We Want
 
 We are looking for PHP Software Engineers with 2-5 years of development experience who will work with our API, white label, web portal, and telecom solutions.
 
-We crave smart, energetic employees who work well with a small team, enjoy seeing a project to completion, and loving bringing ideas to the table.
+We crave smart, energetic employees who work well with a small team, enjoy seeing a project to completion, and have an "open source" attitude when it comes to criticism and sharing ideas.
 
-Experience in Apache, MySQL, PHP 5.3+, MVC Frameworks, jQuery, and HTML5 is a must. 
+Experience in the following is a must: 
+
+* Apache / MySQL / PHP 5.3+
+* MVC Frameworks
+* jQuery / CSS3
+* HTML5 templating
+* Developing midsize projects
+* Analytical problem solving
 
 They should be comfortable:
 
 * Setting up their own LAMP stack
 * Building database schemas
-* Integrating APIs
+* Integrating XML and JSON APIs
 * Managing code repositories
 * Unit testing
 * Deploying code to a server
 * Object-oriented programming
+
+We will offer bonus points for a healthy knowledge of Herobrine.
