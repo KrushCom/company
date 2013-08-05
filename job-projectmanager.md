@@ -14,11 +14,12 @@ We are looking for a technical Project Manager with solid decision-making skills
 
 An ideal Project Manager can assist with any task requiring a structured and managed commercial outcome, from rolling out a marketing campaign to process mapping and reengineering. They should have:
 
-* Web development industry experience
 * Superb communication and reporting skills
 * Commercially focused mindset to manage a budgeted outcome
 * Collaborative negotiating skills in dealing with groups
 * Proficiency with spreadsheets, word documents, and flowchart software
 * Willingness to assist in tasks outside of their scope
+
+Web development industry experience is prefered but not required.
 
 http://krushcom.com/
