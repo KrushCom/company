@@ -27,5 +27,3 @@ The following would be ideal but not required:
 * Knowledge of technical concepts such as APIs / templates / OOP
 * Code deployment processes
 * Experience with Scrum / Kanban / Scrumban software management styles
-
-We will offer bonus points for a healthy knowledge of Herobrine.
