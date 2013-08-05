@@ -8,8 +8,8 @@ Question 1
 
 Design a MySQL database to store the attached CSV files. Import the CSV files into the database and describe your process. Finally, export the database structure into an .sql file.
 
-*    customer_list.csv
-*    transaction_list.csv
+*    customer.csv
+*    transaction.csv
 
 Question 2
 ----------
