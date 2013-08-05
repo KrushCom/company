@@ -21,11 +21,4 @@ An ideal Project Manager can assist with any task requiring a structured and man
 * Proficiency with spreadsheets, word documents, and flowchart software
 * Willingness to assist in tasks outside of their scope
 
-The following would be ideal but not required:
-
-* Prior experience developing in MySQL / PHP / jQuery / HTML5
-* Knowledge of technical concepts such as APIs / templates / OOP
-* Code deployment processes
-* Experience with Scrum / Kanban / Scrumban software management styles
-
 http://krushcom.com/
