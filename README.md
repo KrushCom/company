@@ -1,5 +1,5 @@
-About Us
-========
+Krush Communications
+====================
 
 Krush Communications is founded on the ideals of delivering a quality product and understanding the needs of our customers. Our goal is to provide digitally distributed offerings on a global market with a dedicated focus in the United States, Australia, and the United Kingdom.
 
