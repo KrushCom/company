@@ -27,3 +27,5 @@ The following would be ideal but not required:
 * Knowledge of technical concepts such as APIs / templates / OOP
 * Code deployment processes
 * Experience with Scrum / Kanban / Scrumban software management styles
+
+http://krushcom.com/
