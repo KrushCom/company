@@ -22,7 +22,7 @@ Create a PHP class and add a method to retrieve transactions from your MySQL dat
 *    Retail
 *    Cost
 *    Profit
-*    Discount
+*    Gross Margin %
 
 Question 3
 ----------
