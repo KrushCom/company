@@ -1,16 +1,18 @@
 About Us
 ========
 
-Krush Communications is founded on the ideals of delivering a quality product and understanding the needs of our customers. Our goal is to provide digitally distributed offerings on a global market with a dedicated focus in the United States, Australia, and the United Kingdom.
+We are the Austin based, development team of Aggregato Krush - a global telecommunications company with a focus in white label solutions, robust API offerings, and diversified consumer markets.
 
-When it comes to our technologies, we are a company that strives to stay lean by developing the best solutions with the latest concepts. Our engineers have the opportunity to integrate with a variety of APIs, develop large-scale PHP projects, and manage diverse system designs.
+Our Austin team is unique: we’ve got the energy and spirit of a startup while enjoying the security and leadership of an international organization. Responsive web portals are our forte, and we work with the latest PHP techniques and SOLID principles so we can focus on what matters most - creating great products and solving unique problems.
 
-We are opening an Austin office of 8-10 staff conveniently located near the Metro Rail and are looking to build a small engineering team who can develop and grow together. We offer flexible hours with the ability to work from home when needed.
+As a global leader in pinless retail and prepaid telecommunications, we are committed to continually expanding our portfolio and customer base through through targeted innovations. Our offerings include a vast array of “white label" solutions for selling international products and integrating with third-party carriers. Our network encompasses the globe with key markets in the United States, Australia, and the United Kingdom.
+
+We offer company paid medical benefits, an ample amount of paid time-off, free caffeine, and flexible work hours to ensure that our team is developing at their peak.
 
 Who We Want
 ============
 
-We are looking for PHP Software Engineers with 2-5 years of development experience who will work with our API, white label, web portal, and telecom solutions. We crave smart, energetic employees who work well with a small team, enjoy seeing a project to completion, and have an "open source" attitude when it comes to criticism and sharing ideas.
+We are looking for smart, energetic, PHP Software Engineers with 2+ years of development experience who will work with our API, white label, web portal, and telecom solutions. You must work well with a small collaborative team, enjoy seeing a project to completion, and have an "open source" attitude when it comes to criticism and sharing ideas.
 
 Experience in the following is a must: 
 
@@ -31,6 +33,6 @@ They should be comfortable:
 * Deploying code to a server
 * Object-oriented programming
 
-We will offer bonus points for a healthy knowledge of Herobrine.
+Bonus points for a love of "I Am Error".
 
 http://krushcom.com/
