@@ -3,7 +3,7 @@ About Us
 
 We are the Austin based, development team of Aggregato Krush - a global telecommunications company with a focus in white label solutions, robust API offerings, and diversified consumer markets.
 
-Our Austin team is unique: we’ve got the energy and spirit of a startup while enjoying the security and leadership of an international organization. Responsive web portals are our forte, and we work with the latest PHP techniques and SOLID principles so we can focus on what matters most - creating great products and solving unique problems.
+Our Austin team is unique: we’ve got the energy and spirit of a startup while enjoying the security and leadership of an international organization. Responsive web portals are our forte, and we work with the latest PHP techniques and SOLID principles to focus on what matters most - creating great products and solving unique problems.
 
 As a global leader in pinless retail and prepaid telecommunications, we are committed to continually expanding our portfolio and customer base through through targeted innovations. Our offerings include a vast array of “white label" solutions for selling international products and integrating with third-party carriers. Our network encompasses the globe with key markets in the United States, Australia, and the United Kingdom.
 
