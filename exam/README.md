@@ -52,4 +52,4 @@ If you were requested to finish the call flow portion of the exam, please solve 
 Question 4
 ----------
 
-Use the following [Twilio TWIML callflow example](https://www.twilio.com/docs/howto/ivrs-call-screening-and-recording) to create a flow chart in Visio, OpenOffice, or any altnerative diagraming software including hand-drawn.
+Use the following [Twilio TWIML callflow example](https://www.twilio.com/docs/howto/ivrs-call-screening-and-recording) to create a flow chart in Visio, OpenOffice, or any altnerative diagraming software (including hand-drawn). Demonstrate a basic knowledge of key callflow components important to any IVR.
