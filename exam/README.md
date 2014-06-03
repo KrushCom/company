@@ -1,7 +1,7 @@
-Krush Coding Exam
+Aggregato Global Coding Exam
 =================
 
-Please complete the following questions. Place the files in a folder called "exam2013" and return them in a single tar.gz file. The goal of this exam is to better understand your coding practices and style.
+Please complete the following questions. Place the files in a folder called "exam2013" and return them in a single tar.gz file. The goal of this exam is to better understand your coding practices and style. Whatever approach you take, please provide clear instructions on how to easily execute your code.
 
 Question 1
 ----------
