@@ -7,7 +7,7 @@ Our Austin team is unique: we’ve got the energy and spirit of a startup while 
 
 As a global leader in pinless retail and prepaid telecommunications, we are committed to continually expanding our portfolio and customer base through through targeted innovations. Our offerings include a vast array of “white label" solutions for selling international products and integrating with third-party carriers. Our network encompasses the globe with key markets in the United States, Australia, and the United Kingdom.
 
-We offer company paid medical benefits, an ample amount of paid time-off, free caffeine, and flexible work hours to ensure that our team is developing at their peak. Read below to find out if you'd be a great fit for our team!
+We offer company paid medical benefits, an ample amount of paid time-off, and a true 9 to 5 work schedule (with the occasional maintenance window). Our developers work entirely from their home offices though we love to schedule work meetups and social events. We are a team of eight and growing in a 100+ size company.
 
 Who We Want
 ============
